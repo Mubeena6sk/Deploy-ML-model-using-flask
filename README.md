@@ -1,7 +1,7 @@
 # Deploy-ML-model-using-flask
 This is a demo project to elaborate how Machine Learning Models are deployed using Flask API
 
-3##Prerequisites
+###Prerequisites
 You must have 'requirements.txt' installed.
 
 ###Project Structure
